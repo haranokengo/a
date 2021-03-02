@@ -13,9 +13,15 @@
 ### 主な利用シーン
 読書をこれから始めたい方などが、自分のイメージで本を検索でき探すことができるようにする。
 ## 設計書
-ER図　https://app.diagrams.net/#G1S3vmRR2eScD-gKvso8w9vcp63wQH77MB
+ER図　
+https://app.diagrams.net/#G1S3vmRR2eScD-gKvso8w9vcp63wQH77MB
+
 テーブル定義所
-アプリケーション詳細　
+[pf　テーブル定義所.zip](https://github.com/haranokengo/a/files/6065712/pf.zip)
+
+アプリケーション詳細
+[アプリケーション詳細.zip](https://github.com/haranokengo/a/files/6065899/default.zip)
+　
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1oDEktX-4fpxVspm4utiX5QlQphku5u7N7la79gd3Y6c/edit#gid=0
 ## 開発環境
