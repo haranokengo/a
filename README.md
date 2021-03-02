@@ -9,22 +9,18 @@
 ### テーマを選んだ理由
 自分自身が、読書がしたいという気持ちはあるが漠然としていて、どんな本を読んだらいいのかわからないことがあったので、キーワードなどの検索をしたらヒットするようなサイトがあれば便利だと思ったから。
 ### ターゲットユーザ
-これから読書を始める方
+*これから読書を始める方
+*元々読書が趣味の方
+*漫画を読む方
 ### 主な利用シーン
 読書をこれから始めたい方などが、自分のイメージで本を検索でき探すことができるようにする。
 ## 設計書
-ER図　
-https://app.diagrams.net/#G1S3vmRR2eScD-gKvso8w9vcp63wQH77MB
-
-テーブル定義所
-[pf　テーブル定義所.zip](https://github.com/haranokengo/a/files/6065712/pf.zip)
-
-アプリケーション詳細
-[アプリケーション詳細.zip](https://github.com/haranokengo/a/files/6065899/default.zip)
-　
-## チャレンジ要素一覧
+### 機能一覧
 https://docs.google.com/spreadsheets/d/1oDEktX-4fpxVspm4utiX5QlQphku5u7N7la79gd3Y6c/edit#gid=0
 ## 開発環境
+*OS：Linux (CentOS)
+*言語：HTML, CSS, JavaScript, Ruby, SQL
+*フレームワーク：Ruby on Rails
+*JSライブラリ：jQuery
+*IDE：Cloud9
 
-
-## 使用素材
